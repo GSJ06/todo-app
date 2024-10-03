@@ -1,0 +1,16 @@
+.app {
+    min-height: 100vh;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.darkMode {
+    background-color: #333;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    padding: 20px;
+}
