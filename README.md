@@ -76,14 +76,6 @@ todo-list/
 2. **Completing a Todo**: Click the checkbox next to a todo to mark it as complete.
 3. **Deleting a Todo**: Click the delete icon next to a todo to remove it from the list.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Future Enhancements
 
 - Add due dates to todos
@@ -93,10 +85,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Dark mode toggle
 - Integrate with a backend API for data persistence across devices
 
-## Contact
-
-If you have any questions, feel free to reach out to [Your Name](mailto:your.email@example.com).
-
----
-
-Happy task managing!
