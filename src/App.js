@@ -32,7 +32,7 @@ const App = () => {
   };
 
   const toggleDarkMode = () => {
-    setDarkMode(!cd todo-list);
+    setDarkMode(!darkMode);
   };
 
   return (
